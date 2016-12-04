@@ -2,7 +2,6 @@ package com.company;
 
 import Homework.DbUserEntity;
 import Homework.DbUserInfoEntity;
-import Homework.IDbEntity;
 import Homework.IFirstOrm;
 
 /**
@@ -29,12 +28,12 @@ public class FirstOrmAdapter implements ITarget{
 
     @Override
     public DbUserEntity readUserEntity(int id) {
-        return (DbUserEntity) orm1.read(id);
+        return orm1.read(id);
     }
 
     @Override
     public DbUserInfoEntity readUserInfoEntity(int id) {
-        return (DbUserInfoEntity) orm2.read(id);
+        return orm2.read(id);
     }
 
     @Override
