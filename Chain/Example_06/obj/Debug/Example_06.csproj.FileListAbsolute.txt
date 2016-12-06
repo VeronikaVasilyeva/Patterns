@@ -1,0 +1,3 @@
+c:\users\cepaqpum-eve\documents\visual studio 2015\Projects\Example_06\Example_06\bin\Debug\Example_06.exe.config
+C:\Users\admin.superfish\Desktop\Паттерны\Example_06\Example_06\bin\Debug\Example_06.exe.config
+C:\Users\veron\Downloads\drive-download-20161130T130312Z\Example_06\Example_06\bin\Debug\Example_06.exe.config

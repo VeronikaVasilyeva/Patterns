@@ -1,0 +1,9 @@
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.exe.config
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.exe
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.pdb
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.csprojResolveAssemblyReference.cache
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.exe
+D:\Dropbox\Работа\Лекции\2016 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.pdb
+C:\Users\veron\Downloads\drive-download-20161130T130312Z\Example_07\Example_07\bin\Debug\Example_07.exe.config
+C:\Users\veron\Downloads\drive-download-20161130T130312Z\Example_07\Example_07\obj\Debug\Example_07.exe
+C:\Users\veron\Downloads\drive-download-20161130T130312Z\Example_07\Example_07\obj\Debug\Example_07.pdb
